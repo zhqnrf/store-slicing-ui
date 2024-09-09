@@ -1,6 +1,3 @@
-Berikut perbaikan untuk README kamu:
-
----
 
 # Store Slicing UI
 
